@@ -1,0 +1,15 @@
+.transaction__history {
+  width: 340px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+.head {
+  background-color: rgb(122, 208, 211);
+}
+.table__body {
+  background-color: rgb(237, 239, 245);
+  border: 1px solid #ccc;
+}
+.table__body:nth-child(2n) {
+  background-color: #fff;
+}
